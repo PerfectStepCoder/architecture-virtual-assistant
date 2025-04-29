@@ -1,2 +1,8 @@
 
 .DS_Store
+
+web/node_modules/
+
+web/build/
+
+assistent/actions/__pycache__/
